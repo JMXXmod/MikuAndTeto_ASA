@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0915A74B4FDF339DDC49F2BE880CF46A",
+	"FriendlyName": "MikuAndTetoPlushies",
+	"Description": "Add your summary here",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/miku-and-teto-plushies-skin",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"CfUgcId": 1560168,
+	"AutoCookingType": "All"
+}
